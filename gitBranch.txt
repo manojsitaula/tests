@@ -2,3 +2,9 @@
 2) git checkout gitBranch ### will show which branch you are working
 3) vim gitBranch.txt ### create a file in gitBranch folder
 4) git add gitBranch.txt
+5) git commit -m "gitBranch.txt in gitBranch branch" #### will commit changes to local pc
+6) git push origin gitBranch ## will push changes to git repository
+
+####Merging gitBranch to master Branch ########
+1) git checkout master
+2) git merge gitBranch
