@@ -1,0 +1,8 @@
+1) create a git account and repository
+2) make a git-repository on your pc
+3) git clone https://github.com/mxxxxxxxx/tests.git ### will clone git repository your directory on your pc
+4) cd git-repository/tests/
+5) vim test.txt #####create a test file in local pc and save the file
+6) git add test.txt ####will add the test.txt in repository
+6) git commit -m "added test.txt" # will commit your changes to repository
+
