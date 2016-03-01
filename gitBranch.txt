@@ -1,0 +1,4 @@
+1) git branch gitBranch ## will create a new branch called git branch
+2) git checkout gitBranch ### will show which branch you are working
+3) vim gitBranch.txt ### create a file in gitBranch folder
+4) git add gitBranch.txt
